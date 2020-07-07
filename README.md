@@ -1,2 +1,2 @@
 # rosalind_problems
-A list of all problems on rosalind along with solutions 
+A list of all problems on rosalind along with solutions in Python
